@@ -1,0 +1,6 @@
+/home/fu.chen/wifi_share/work/bk7258/7258_recorder_voice_pen/7258_voice_record_for_github/bk7258_avdk_2.0.2_backup2/bk_idk/tools/build_tools/part_table_tools/tempFiles/partitions_new.csv
+/home/fu.chen/wifi_share/work/bk7258/7258_recorder_voice_pen/7258_voice_record_for_github/bk7258_avdk_2.0.2_backup2/bk_idk/tools/build_tools/part_table_tools/tempFiles/configuration_new.json
+/home/fu.chen/wifi_share/work/bk7258/7258_recorder_voice_pen/7258_voice_record_for_github/bk7258_avdk_2.0.2_backup2/bk_idk/tools/build_tools/part_table_tools/tempFiles/partition_bk7256_ota_a_new.json
+/home/fu.chen/wifi_share/work/bk7258/7258_recorder_voice_pen/7258_voice_record_for_github/bk7258_avdk_2.0.2_backup2/projects/audio_ns_recoder/config/bk7258/partitions.csv
+/home/fu.chen/wifi_share/work/bk7258/7258_recorder_voice_pen/7258_voice_record_for_github/bk7258_avdk_2.0.2_backup2/bk_idk/tools/build_tools/part_table_tools/tempFiles/vendor_flash_partition.h
+/home/fu.chen/wifi_share/work/bk7258/7258_recorder_voice_pen/7258_voice_record_for_github/bk7258_avdk_2.0.2_backup2/bk_idk/tools/build_tools/part_table_tools/tempFiles/vendor_flash_new.c
